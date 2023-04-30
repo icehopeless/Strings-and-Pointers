@@ -8,3 +8,12 @@ A atividade dada pelo arquivo "LetraA.cpp" consiste em abrir um arquivo em modo 
 ##Letra B
 A Atividade "LetraB.cpp" consiste em abrir um arquivo em modo de leitura, pedir ao usuário duas palavras, sendo elas a palavra a ser substituída e a palavra nova que será colocada no lugar da antiga.
   
+## Rode assim:
+
+Certifique-se que o caminho do terminal encontra-se na pasta dos arquivos "string and pointers"
+
+``` 
+g++ LetraA.cpp 
+a.exe 
+
+``` 
